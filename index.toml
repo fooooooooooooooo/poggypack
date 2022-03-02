@@ -302,17 +302,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "12f3f182f5f522b03c952241b81df86fdddbf5e23299461d9e135bc11deff00f"
+hash = "a5ac3d55f14e556a76eebad326f3cd531b86318df09bdd039ca6d6f567c83ae0"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.toml"
 hash = "9c51dd2b58c2e58340ac042813309f6cc2b02b661be58a2ff5652824bdb45967"
-metafile = true
-
-[[files]]
-file = "mods/simple-pipes.toml"
-hash = "b7fe27b77d08954f1c075e5d0841ab5e435512b369bad2c56295a1ffded8cbe6"
 metafile = true
 
 [[files]]
