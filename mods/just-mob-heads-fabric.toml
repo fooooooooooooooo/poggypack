@@ -1,0 +1,13 @@
+name = "Just Mob Heads (Fabric)"
+filename = "justmobheads-fabric_1.18.x-5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/206/justmobheads-fabric_1.18.x-5.2.jar"
+hash-format = "sha1"
+hash = "37f7a5d323351770bbd0cb594faaf3e09ba1e55e"
+
+[update]
+[update.curseforge]
+file-id = 3542206
+project-id = 529950

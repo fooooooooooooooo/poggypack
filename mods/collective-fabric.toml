@@ -1,0 +1,13 @@
+name = "Collective (Fabric)"
+filename = "collective-fabric-1.18.x-4.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3654/799/collective-fabric-1.18.x-4.9.jar"
+hash-format = "sha1"
+hash = "33da4833187d84358f199e9dc9f5996223e61062"
+
+[update]
+[update.curseforge]
+file-id = 3654799
+project-id = 526606

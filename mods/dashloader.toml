@@ -1,0 +1,13 @@
+name = "DashLoader"
+filename = "dashloader-def-3.0-rc14-1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc14-1.18/dashloader-def-3.0-rc14-1.18.jar"
+hash-format = "sha1"
+hash = "5639ce29cac465dd01617d31e740ad5c013a70d8"
+
+[update]
+[update.modrinth]
+mod-id = "ZfQ3kTvR"
+version = "PcGOE5fz"

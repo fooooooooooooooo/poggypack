@@ -1,0 +1,13 @@
+name = "Caracal Mod"
+filename = "caracal-1.18-1.3.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3580/9/caracal-1.18-1.3.5.1.jar"
+hash-format = "sha1"
+hash = "9de990b4d27cc8a7c9b6abc3a20fc16591811277"
+
+[update]
+[update.curseforge]
+file-id = 3580009
+project-id = 486505

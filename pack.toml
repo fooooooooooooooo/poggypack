@@ -1,0 +1,15 @@
+name = "Packy"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1b64dd33a3e1b76dd25c64960035a81087a821a54379ae2d9eca11a56d254c10"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1", "1.18-rc3", "1.18-rc4"]

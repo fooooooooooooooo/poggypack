@@ -1,0 +1,13 @@
+name = "Crooked Crooks"
+filename = "crookedcrooks-2.0.1+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DG76dVRB/versions/2.0.1+1.18.1/crookedcrooks-2.0.1+1.18.1.jar"
+hash-format = "sha1"
+hash = "d622c12a90c3e591f1ba742abb7358ce3d3c4019"
+
+[update]
+[update.modrinth]
+mod-id = "DG76dVRB"
+version = "Moi6dXNK"

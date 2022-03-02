@@ -1,0 +1,13 @@
+name = "Experience Bottler"
+filename = "experiencebottler-1.18.1+build.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uq7u1hDy/versions/1.18.1+build.1/experiencebottler-1.18.1+build.1.jar"
+hash-format = "sha1"
+hash = "e322c171fc0686a182546279bea2a8524e5c729e"
+
+[update]
+[update.modrinth]
+mod-id = "Uq7u1hDy"
+version = "WmIjizWr"

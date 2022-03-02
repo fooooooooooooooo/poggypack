@@ -1,0 +1,13 @@
+name = "Pipe"
+filename = "pipe-1.18-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3630/639/pipe-1.18-1.6.2.jar"
+hash-format = "sha1"
+hash = "04e0ab8c1760ff14e944f7c1f0ecdf690f11d4e7"
+
+[update]
+[update.curseforge]
+file-id = 3630639
+project-id = 441787
