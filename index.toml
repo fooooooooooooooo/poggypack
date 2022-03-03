@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-boot.toml"
-hash = "b8cb562a0db4b7ea6071c56bc66739a722075da8aaa9079a7f73fde6c7e46439"
+hash = "5395f3c793c9d31347774b1a179c6287958df953f0bf9652b6953673f74e7e08"
 metafile = true
 
 [[files]]
