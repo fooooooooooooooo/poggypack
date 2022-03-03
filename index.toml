@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "ba5c3c4cf297b08664493f40339b37a18bc75a11f2c072c24b8d3aaf7f50a0ab"
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "9e1570931cdc5f206c7d98ece305cd47e419c50c5faa50b520e7f44ac19848e0"
 metafile = true
@@ -131,6 +135,11 @@ hash = "69aeed63058057dc3564d7487402fad911901b0927f96039559dac33205d2a9f"
 metafile = true
 
 [[files]]
+file = "mods/enhancedquarries.toml"
+hash = "26c48c9e1d62478037ef1c991e34d3e16f14ad67a0c2150785e572215287e03c"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.toml"
 hash = "ef022f83989bc40467264755f5864f6a2ab42a02edda3b9a400c0f4ad55d0896"
 metafile = true
@@ -246,6 +255,11 @@ hash = "112d4971866f902787731385ccf1eb68d59367646bef15cc2921095412b715c9"
 metafile = true
 
 [[files]]
+file = "mods/libblockattributes.toml"
+hash = "d27d671386f7a9430f75c1171bb1c085432ff2cd8dac1a7c697b6d17dee2e322"
+metafile = true
+
+[[files]]
 file = "mods/lifts.toml"
 hash = "08033dd50f48e9d8a8207e0f13f4e491e748e104d85e0099a6ac7a26e5fc1c22"
 metafile = true
@@ -282,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-cap-anvil.toml"
-hash = "a6c4b6aa49fa335a363708c7e31675740d083f3d8a8371e36606d00be6996443"
+hash = "caf4e9fbb297e3597d449d2ad346db410a21bbb1ecf73ea9b42984c1c6e0b178"
 metafile = true
 
 [[files]]
@@ -298,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/pipe.toml"
 hash = "74997dc610ef84623892a9763484e8aa96b09204ade1ba879d0a39c64c90f4f0"
+metafile = true
+
+[[files]]
+file = "mods/quarry-reborn.toml"
+hash = "595127e7e327eaf72760be39b4afd36cba0f43fe0625ba4cf74ec7eb6dfc939f"
 metafile = true
 
 [[files]]
