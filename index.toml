@@ -280,6 +280,11 @@ hash = "a3d291eed5bbd18b2142a77b8b88a7457da3c3ca4207b6d7a0b80af71a64b3c2"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.toml"
+hash = "470467ac3959e03ecc74d1b265cfb9fe21d10f9c0972661de530a35135b77c56"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "08cf57c2cae5fff7f0b8d043c45df07893ea01734a6486f9ca94caae741ea351"
 metafile = true
@@ -315,11 +320,6 @@ hash = "74997dc610ef84623892a9763484e8aa96b09204ade1ba879d0a39c64c90f4f0"
 metafile = true
 
 [[files]]
-file = "mods/quarry-reborn.toml"
-hash = "595127e7e327eaf72760be39b4afd36cba0f43fe0625ba4cf74ec7eb6dfc939f"
-metafile = true
-
-[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "a5ac3d55f14e556a76eebad326f3cd531b86318df09bdd039ca6d6f567c83ae0"
 metafile = true
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-boot.toml"
-hash = "5395f3c793c9d31347774b1a179c6287958df953f0bf9652b6953673f74e7e08"
+hash = "b8cb562a0db4b7ea6071c56bc66739a722075da8aaa9079a7f73fde6c7e46439"
 metafile = true
 
 [[files]]

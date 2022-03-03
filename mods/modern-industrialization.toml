@@ -1,0 +1,13 @@
+name = "Modern Industrialization"
+filename = "Modern-Industrialization-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3646/911/Modern-Industrialization-1.0.5.jar"
+hash-format = "sha1"
+hash = "182345c35cb49e636ef8f395765e1cac4709eac8"
+
+[update]
+[update.curseforge]
+file-id = 3646911
+project-id = 405388
