@@ -5,6 +5,10 @@ file = "README.md"
 hash = "ba5c3c4cf297b08664493f40339b37a18bc75a11f2c072c24b8d3aaf7f50a0ab"
 
 [[files]]
+file = "config/computercraft-client.toml"
+hash = "43da4c2af45ac23ea300941688f42d15c4f67d7d7a7018c0b91782cf3ae90c1d"
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "9e1570931cdc5f206c7d98ece305cd47e419c50c5faa50b520e7f44ac19848e0"
 metafile = true
@@ -61,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.toml"
-hash = "673768ae0f7937a7270496ba4bdf52431930563bb6a03f345d2e384684005ae3"
+hash = "b08dbfc5b377c0c1eb4ca16449091340c0737074a96275100d942b64a3c2b199"
 metafile = true
 
 [[files]]
