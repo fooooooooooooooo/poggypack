@@ -1,0 +1,8 @@
+name = "CC: Restitched"
+filename = "cc-restitched-1.100.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/903565820507062282/951373509198741514/cc-restitched-1.100.1.jar"
+hash-format = "sha1"
+hash = "A3111DDAE69D50470C9C9116809FE2DBB4C922F0"

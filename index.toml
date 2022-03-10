@@ -60,6 +60,11 @@ hash = "902c9b064bda4713e34228cddec596320f869c02a4885a5c89a7e981e1669250"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.toml"
+hash = "673768ae0f7937a7270496ba4bdf52431930563bb6a03f345d2e384684005ae3"
+metafile = true
+
+[[files]]
 file = "mods/cem.toml"
 hash = "c1da859d7a70d33d8f50c485cba5ecd4f241ed2b25df34b87729327c46fd2dd1"
 metafile = true
