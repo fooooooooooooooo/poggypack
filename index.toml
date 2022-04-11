@@ -114,6 +114,11 @@ hash = "04c0d835cca4a8c9aab622808bcd43312619ed1818dcd7fea52a0863d661adb4"
 metafile = true
 
 [[files]]
+file = "mods/dank-storage-fabric.toml"
+hash = "46a2beb538e3e9c618f90ec5d4b645cefbdc9c0b8ba69efecaba24024820132d"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.toml"
 hash = "5b8e4527e7e8535a5f61811dc6c28199e9a19e225e3fb54725af9b72536e1825"
 metafile = true
@@ -211,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/indium.toml"
 hash = "c94fbad1b3dd7973d2b0f33b03b4683875a0f95ffe0db3be4c90a946a29bb353"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.toml"
+hash = "a76379df4bbd8305b072a0d2010639e68f7946bf8b476b4f114a7bcc8a80e701"
 metafile = true
 
 [[files]]
@@ -376,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.toml"
 hash = "1da8fd5d697f28be3aaedaed8a6a8c88a7d627e6d5b5478342f73368dd3d0ac8"
+metafile = true
+
+[[files]]
+file = "mods/upc.toml"
+hash = "ff82170c70d27bddc5861f4ea7bd08b710bd4d104df26d95c126a1ef429b4edb"
 metafile = true
 
 [[files]]

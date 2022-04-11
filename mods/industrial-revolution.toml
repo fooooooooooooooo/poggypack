@@ -1,0 +1,13 @@
+name = "Industrial Revolution"
+filename = "indrev-1.13.6-BETA.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3599/880/indrev-1.13.6-BETA.jar"
+hash-format = "sha1"
+hash = "521fd0472fc3552bd42a1b8dceb876893ee979c0"
+
+[update]
+[update.curseforge]
+file-id = 3599880
+project-id = 391708
