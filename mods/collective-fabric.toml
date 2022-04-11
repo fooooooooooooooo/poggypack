@@ -3,11 +3,11 @@ filename = "collective-fabric-1.18.x-4.9.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3654/799/collective-fabric-1.18.x-4.9.jar"
+url = "https://edge.forgecdn.net/files/3678/695/collective-fabric-1.18.x-4.9.jar"
 hash-format = "sha1"
-hash = "33da4833187d84358f199e9dc9f5996223e61062"
+hash = "7136f36f3323a85f1a8dfb885ee28e1e1acece47"
 
 [update]
 [update.curseforge]
-file-id = 3654799
+file-id = 3678695
 project-id = 526606

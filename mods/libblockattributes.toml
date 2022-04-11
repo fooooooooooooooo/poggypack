@@ -1,13 +1,13 @@
 name = "Lib Block Attributes"
-filename = "libblockattributes-all-0.10.0.jar"
+filename = "libblockattributes-all-0.10.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3540/966/libblockattributes-all-0.10.0.jar"
+url = "https://edge.forgecdn.net/files/3672/601/libblockattributes-all-0.10.2.jar"
 hash-format = "sha1"
-hash = "02f4ebf06942776cdcb19eb1459dce53aa6acae9"
+hash = "c973f029e0d8164f2e7106cd418119f01f9936e1"
 
 [update]
 [update.curseforge]
-file-id = 3540966
+file-id = 3672601
 project-id = 317995

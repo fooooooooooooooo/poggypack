@@ -1,13 +1,13 @@
 name = "Custom Entity Models"
-filename = "cem-0.7.0.jar"
+filename = "cem-0.7.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YOQCucah/versions/0.7.0/cem-0.7.0.jar"
+url = "https://cdn.modrinth.com/data/YOQCucah/versions/0.7.1/cem-0.7.1.jar"
 hash-format = "sha1"
-hash = "91c1a2ad7743118cc44d56a92f358ae09f4f8ba1"
+hash = "cdee86c59231dbe6df3aa17cfa2041221346306b"
 
 [update]
 [update.modrinth]
 mod-id = "YOQCucah"
-version = "Z42auxMF"
+version = "G6KoWsNJ"
