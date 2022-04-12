@@ -394,6 +394,11 @@ hash = "ff82170c70d27bddc5861f4ea7bd08b710bd4d104df26d95c126a1ef429b4edb"
 metafile = true
 
 [[files]]
+file = "mods/waveycapes.toml"
+hash = "a9804578aa89081fb2b869e13996d72d0e64f507514f330656f090ea1d9c335d"
+metafile = true
+
+[[files]]
 file = "mods/where-is-it.toml"
 hash = "fc43f59bf9f8538e633d4910bdf87d6980719c78682976de05f6329530781100"
 metafile = true
