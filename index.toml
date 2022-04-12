@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.toml"
-hash = "dc7a6961ff0144552d771d051d84f5694790d2f1e3391d632fa7a7eb56e6734d"
+hash = "aa6ebc926e27070f0a4612dc72db4c5b2cbe2f2a70ff7816feed142c430e3531"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.toml"
-hash = "cfcfca681b376a3f30990a5845ccf7a95255b054674bcefd32c0f02e06f9346c"
+hash = "a401eef95d8cd5100179ac77d1b78b7172b98d8fe1d8c5b17a751854d2db88d0"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "ec88c0c0f7897bbb3058b24c0ee12d06c43a64d0cefa347743d9b0264cbce5d6"
+hash = "70a675720e61af18f8551dd4d49d3a6d2af8402c6a4ba74adaa8dd2d1f0a72b1"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-fade.toml"
-hash = "35f59eea8f56885041a17d971f15cc79e084746c90f195139d78dcfa2b275510"
+hash = "11e9ff4826221962d98b9442e61beeead0872693bdb9abcae72edd8db0993fdf"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "211beaf63d3e68db103fd36807c17df58755141e786d7240a968a6c8b796ebca"
+hash = "56acb7111d461ab212050d208a66a0d0dd890ee2d8961542bc302c0f239d9946"
 metafile = true
 
 [[files]]
