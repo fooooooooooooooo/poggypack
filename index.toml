@@ -49,6 +49,11 @@ hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.toml"
+hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.toml"
 hash = "953fea75f93a02085a416200edb491e61accdfe19ed74c80b3c5269e6436289e"
 metafile = true
@@ -109,6 +114,11 @@ hash = "4a45496d6a0cd4cd445e300791af4473587864d20024d8c1bd032e763c36b698"
 metafile = true
 
 [[files]]
+file = "mods/couplings.toml"
+hash = "4128591cf6f35dce8c576d03781b3bc540ea6053b216fb6f80627310c7498422"
+metafile = true
+
+[[files]]
 file = "mods/crooked-crooks.toml"
 hash = "04c0d835cca4a8c9aab622808bcd43312619ed1818dcd7fea52a0863d661adb4"
 metafile = true
@@ -141,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+metafile = true
+
+[[files]]
+file = "mods/effective.toml"
+hash = "dc7a6961ff0144552d771d051d84f5694790d2f1e3391d632fa7a7eb56e6734d"
 metafile = true
 
 [[files]]
@@ -211,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/go-fish.toml"
 hash = "0c1b9817367d47f97639fb4e8757c5d18bb7809de5c25f0e10bc5df9de3c7fde"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "ec88c0c0f7897bbb3058b24c0ee12d06c43a64d0cefa347743d9b0264cbce5d6"
 metafile = true
 
 [[files]]
@@ -339,6 +359,11 @@ hash = "74997dc610ef84623892a9763484e8aa96b09204ade1ba879d0a39c64c90f4f0"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.toml"
+hash = "210d68d18e3e8582c1ffa6ba118ee2bb3d480bf18484e3b0cc8215a39c84341b"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "ee3187bfac3961c573a8e00edd0d2f69e66c4aeb9a65f203781ab1687e2d3856"
 metafile = true
@@ -351,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "f8ee1f3712bb05a1550d9a4530e66802008eb8db9475c911f8aed321d4f7246b"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "211beaf63d3e68db103fd36807c17df58755141e786d7240a968a6c8b796ebca"
 metafile = true
 
 [[files]]
@@ -395,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/waveycapes.toml"
-hash = "a9804578aa89081fb2b869e13996d72d0e64f507514f330656f090ea1d9c335d"
+hash = "417d84bf61f1db58accb400b2d935546a54990615ebe320a9de27722d53334e2"
 metafile = true
 
 [[files]]
