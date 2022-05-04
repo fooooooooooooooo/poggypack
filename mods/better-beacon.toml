@@ -1,0 +1,8 @@
+name = "Better Beacons"
+filename = "betterbeacon-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/SFort/MC-betterbeacon/releases/download/r1.0.8/betterbeacon-1.0.8.jar"
+hash-format = "sha256"
+hash = "8E2A659F990F2A68033CA8A208EB38985A559F31E7C449C633C6C4605CD57FF5"

@@ -1,0 +1,13 @@
+name = "Full Slabs"
+filename = "full-slabs-3.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OwqCl3JJ/versions/3.3.4/full-slabs-3.3.4.jar"
+hash-format = "sha1"
+hash = "0d3ca72e153bbdc1a814c0d338315ad087c308dc"
+
+[update]
+[update.modrinth]
+mod-id = "OwqCl3JJ"
+version = "b9l0U75Y"

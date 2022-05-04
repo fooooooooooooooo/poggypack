@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "fa3fc2a1e5f7f2b2cd5b9424f60bcff9fce2626950ad9251e3d34cc90275d8bc"
+
+[[files]]
 file = "README.md"
 hash = "ba5c3c4cf297b08664493f40339b37a18bc75a11f2c072c24b8d3aaf7f50a0ab"
 
 [[files]]
 file = "config/computercraft-client.toml"
 hash = "43da4c2af45ac23ea300941688f42d15c4f67d7d7a7018c0b91782cf3ae90c1d"
+
+[[files]]
+file = "files/aurorasdecorations-1.0.0+1.18.jar"
+hash = "b1b55aa8595c5255ce05ba4dda26dbc8b1310f01e4944613e185d20b5f2ae0b2"
+
+[[files]]
+file = "files/create-mc1.18.1_v0.4d+482.jar"
+hash = "43987243f523ec5ef3dc229e3a955f3be7719ee8e7a6cc0dfe4bdf463805293e"
 
 [[files]]
 file = "mods/adorn.toml"
@@ -42,6 +54,15 @@ metafile = true
 file = "mods/architectury-fabric.toml"
 hash = "706dfaef55d666502cbb27309ef3b7a7e281078b7275f8025c3698c553cd1b38"
 metafile = true
+
+[[files]]
+file = "mods/auroras-decorations.toml"
+hash = "d25f599d055a314ac8b0be5aa6aff0e4be1f1e5a887e3b3c9e42f0adec2edbe1"
+metafile = true
+
+[[files]]
+file = "mods/better-beacon.toml"
+hash = "64c829544293de224d548d809870433ba00ad3161395712c0e168435b1896d4d"
 
 [[files]]
 file = "mods/better-mount-hud.toml"
@@ -116,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/couplings.toml"
 hash = "4128591cf6f35dce8c576d03781b3bc540ea6053b216fb6f80627310c7498422"
+metafile = true
+
+[[files]]
+file = "mods/create.toml"
+hash = "bd9549bc9c70b2aeefd1b327d7dd4f841718223984e84a1c34cf19c5c676077e"
 metafile = true
 
 [[files]]
@@ -194,6 +220,11 @@ hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
 metafile = true
 
 [[files]]
+file = "mods/fabric-chisel.toml"
+hash = "2f142f438cc1f9114eccb37c2fd374121a561ee40ff7b2222582abe8b6d9e75b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
 metafile = true
@@ -221,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/flesh2leather-fabric.toml"
 hash = "cfd53be5cb696b36916cad0761b0012f17630f830d73f8d3953c84cb40c57455"
+metafile = true
+
+[[files]]
+file = "mods/full-slabs.toml"
+hash = "d0b02d8889d7888276aaa3eea2ecb63ddb7fb7c14408c5d18fe36c31ecdef0a6"
 metafile = true
 
 [[files]]
@@ -304,6 +340,11 @@ hash = "08033dd50f48e9d8a8207e0f13f4e491e748e104d85e0099a6ac7a26e5fc1c22"
 metafile = true
 
 [[files]]
+file = "mods/malilib.toml"
+hash = "48d7d8ddf473e8877ac11527859219badc30e0e9732200100ef206bc7d08cb65"
+metafile = true
+
+[[files]]
 file = "mods/megane.toml"
 hash = "8ac938adebe88d9cd39c4dfa97522b35125158a59e580ecb769d9b36bde65d17"
 metafile = true
@@ -371,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.toml"
 hash = "9c51dd2b58c2e58340ac042813309f6cc2b02b661be58a2ff5652824bdb45967"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "48d086c6bec06c3eecf43f89c643b59fc116f80b6ac7444c68a379b2daa8de08"
 metafile = true
 
 [[files]]
