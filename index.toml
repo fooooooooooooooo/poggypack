@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "fa3fc2a1e5f7f2b2cd5b9424f60bcff9fce2626950ad9251e3d34cc90275d8bc"
-
-[[files]]
 file = "README.md"
 hash = "ba5c3c4cf297b08664493f40339b37a18bc75a11f2c072c24b8d3aaf7f50a0ab"
 
@@ -59,10 +55,6 @@ metafile = true
 file = "mods/auroras-decorations.toml"
 hash = "d25f599d055a314ac8b0be5aa6aff0e4be1f1e5a887e3b3c9e42f0adec2edbe1"
 metafile = true
-
-[[files]]
-file = "mods/better-beacon.toml"
-hash = "64c829544293de224d548d809870433ba00ad3161395712c0e168435b1896d4d"
 
 [[files]]
 file = "mods/better-mount-hud.toml"
