@@ -375,6 +375,11 @@ hash = "74997dc610ef84623892a9763484e8aa96b09204ade1ba879d0a39c64c90f4f0"
 metafile = true
 
 [[files]]
+file = "mods/polymorph-fabric.toml"
+hash = "e40e4254b083c849bc57209e429db3152649e93cfb46394a61552126b047d200"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.toml"
 hash = "210d68d18e3e8582c1ffa6ba118ee2bb3d480bf18484e3b0cc8215a39c84341b"
 metafile = true
