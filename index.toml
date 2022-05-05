@@ -1,20 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "ba5c3c4cf297b08664493f40339b37a18bc75a11f2c072c24b8d3aaf7f50a0ab"
-
-[[files]]
 file = "config/computercraft-client.toml"
 hash = "43da4c2af45ac23ea300941688f42d15c4f67d7d7a7018c0b91782cf3ae90c1d"
-
-[[files]]
-file = "files/aurorasdecorations-1.0.0+1.18.jar"
-hash = "b1b55aa8595c5255ce05ba4dda26dbc8b1310f01e4944613e185d20b5f2ae0b2"
-
-[[files]]
-file = "files/create-mc1.18.1_v0.4d+482.jar"
-hash = "43987243f523ec5ef3dc229e3a955f3be7719ee8e7a6cc0dfe4bdf463805293e"
 
 [[files]]
 file = "mods/adorn.toml"
