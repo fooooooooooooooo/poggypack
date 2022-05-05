@@ -132,11 +132,6 @@ hash = "4128591cf6f35dce8c576d03781b3bc540ea6053b216fb6f80627310c7498422"
 metafile = true
 
 [[files]]
-file = "mods/create.toml"
-hash = "bd9549bc9c70b2aeefd1b327d7dd4f841718223984e84a1c34cf19c5c676077e"
-metafile = true
-
-[[files]]
 file = "mods/crooked-crooks.toml"
 hash = "04c0d835cca4a8c9aab622808bcd43312619ed1818dcd7fea52a0863d661adb4"
 metafile = true
