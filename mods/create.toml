@@ -1,8 +1,0 @@
-name = "Create"
-filename = "create-mc1.18.1_v0.4d+482.jar"
-side = "both"
-
-[download]
-url = "https://mods.tyjupiter.com/files/create-mc1.18.1_v0.4d+482.jar"
-hash-format = "sha256"
-hash = "43987243F523EC5EF3DC229E3A955F3BE7719EE8E7A6CC0DFE4BDF463805293E"
