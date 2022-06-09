@@ -1,6 +1,6 @@
 name = "Simple Discord RPC [Forge/Fabric/Quilt]"
 filename = "simple-rpc-1.18.2-3.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/1.18.2-3.0.1/simple-rpc-1.18.2-3.0.1.jar"

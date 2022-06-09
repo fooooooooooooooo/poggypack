@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/controllable.pw.toml"
-hash = "cf0cf2efbf545e67bf9cd8d3626ff7811bb5b5c8b2e57d6eedb40e57d1ac7a3d"
+hash = "85a3c2ee2c2cddfdc2a5c9296559498c83085b96200d8ea0e99cb975b90f5ed4"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "457126acbebdffd99622d0d1f4453779fdf8640a6cc99d217de51e078bf48b07"
+hash = "422a89c398c18e4cb2d5d8aabdec612747562b394210e324689dafecdf70535e"
 metafile = true
 
 [[files]]
