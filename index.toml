@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "af3cd35c5a473d574b60bb2e2c514ac2cad1d8aa25cd36c8be301c9b8ec5982b"
+metafile = true
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "c7d945d10983e24c101cb18614a605c2c3a25322348b68bb8666addbc3fe4fba"
 metafile = true
@@ -61,6 +66,21 @@ hash = "b03d1788c1655d52f17bcde0285f59d38822d3b2a8eae430a073f69e3e1b8137"
 metafile = true
 
 [[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "870463293308fb73af014c9adf6b5631edb9e745af8de337726f0b0c0eef74d7"
+metafile = true
+
+[[files]]
+file = "mods/better-taskbar.pw.toml"
+hash = "3b8033e81553ac133da8d5f9a537765291f6c6eea340f135e0937c1cdf61df05"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7da74fd4dc94275df9345369417dd6314076b69fb92a32846b9bb95f4e9eb0d4"
+metafile = true
+
+[[files]]
 file = "mods/botania.toml"
 hash = "31cfa6488bb6e149da1a1f3aa80023412a78b5c28006d5c22e0fb399f4054968"
 metafile = true
@@ -107,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "9a7b5d7cf2ab9e3a45d4fdaab423c3028967c646b1364b4913cfa83a9df31895"
+hash = "89bc161d8030601641690d6c71d6d4dc2ea7316c774ad1c6e1d6e894a12fd62f"
 metafile = true
 
 [[files]]
@@ -121,6 +141,11 @@ hash = "14d1fa99174e40f9eeacd1e3e0afa09b0c2be63c0d9b7fdf0d22f92e02eb995c"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "69b1d8662dcd3faffef4d75fadb0b6057018e591538fc6e4bbad22ac42808ac0"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "db853a16a69cfc9a2971912f4c853ec0ade4f44808d4e12990d560346bb3168c"
 metafile = true
@@ -131,8 +156,18 @@ hash = "c9a759ad1026e97d6862d2f5d8d30ecb105488aa9da100973d243f143908b1e3"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.toml"
 hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "a23cd083c19f961223880ce56bc9ce8cba6532d60b012700a1ec64a443d36acf"
 metafile = true
 
 [[files]]
@@ -153,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/infinitymending.toml"
 hash = "0d9203a9dbcd59f9222807e8a704ea6fcb48cd8a53a44e4deff775873e1f9cad"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "3d56d096bedb26c54fb4e3c0b3e475e528a9c252f3acde84ce087d238dc19b80"
 metafile = true
 
 [[files]]
@@ -226,6 +266,11 @@ hash = "32d0dbd0e8d90972de5fd556e87b3efaee4997160ac0eef6034f3e35ed60fc6d"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
 metafile = true
@@ -238,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.toml"
 hash = "5d25c10845d3a2cbb866f38b5c7f9a4350865480f29e7138bd437a3203eaeedc"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "76ee493e50f512a5d1bc992a89ae915c7b673c6fd04f6a652c940cfed8da7e8d"
 metafile = true
 
 [[files]]
@@ -278,6 +328,16 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-forge.toml"
 hash = "71a013ec24bf2e9ce91b302e4ea6b7b99f7ff6b3a1c12f8da9a44b43737db746"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "ea55d78440fa1289587ff06497b92d9cfe988bb4164fcdddf42dd9dc83fd0779"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "457126acbebdffd99622d0d1f4453779fdf8640a6cc99d217de51e078bf48b07"
 metafile = true
 
 [[files]]
@@ -338,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "dc80deed63bfb2ee3578e88d1ae4c0ed7a3fac0e6f5937767950622eeae3292d"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "63ed494c9019e2109575dcdb2174b2fbd18dcec281e9230580990a1174b1e0dc"
 metafile = true
 
 [[files]]
