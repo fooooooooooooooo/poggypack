@@ -1,0 +1,13 @@
+name = "Thermal Integration"
+filename = "thermal_integration-1.18.2-1.6.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ro7yiyD4/versions/1.6.0/thermal_integration-1.18.2-1.6.0.6.jar"
+hash-format = "sha1"
+hash = "342acdfcaa193a9054a8f2c74d911aad61584a64"
+
+[update]
+[update.modrinth]
+mod-id = "Ro7yiyD4"
+version = "RE8K48Yl"

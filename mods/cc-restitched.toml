@@ -1,8 +1,0 @@
-name = "CC: Restitched"
-filename = "cc-restitched-nocommand-1.100.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/902081288645804042/951410749027266620/cc-restitched-nocommand-1.100.1.jar"
-hash-format = "sha1"
-hash = "91ED2837A38976965E0CC5D5F6B9B4B3FFADEF33"

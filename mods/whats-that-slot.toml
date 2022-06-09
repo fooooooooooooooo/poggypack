@@ -1,0 +1,13 @@
+name = "What's That Slot?"
+filename = "whats-that-slot-forge-1.2.3+1.18.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7b5VoITI/versions/1.2.3+1.18-forge/whats-that-slot-forge-1.2.3%2B1.18.1.jar"
+hash-format = "sha1"
+hash = "526b94667aa0d85222f7fd1beec7b2f7446081cb"
+
+[update]
+[update.modrinth]
+mod-id = "7b5VoITI"
+version = "2waLEitm"

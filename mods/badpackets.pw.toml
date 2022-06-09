@@ -1,0 +1,13 @@
+name = "bad packets"
+filename = "badpackets-forge-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "971fe0f657da5fc5b2e2be74286421671f7c9f64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3773642
+project-id = 615134

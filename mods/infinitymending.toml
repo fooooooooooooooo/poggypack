@@ -1,0 +1,13 @@
+name = "Infinity Mending"
+filename = "InfinityMending-1.17+1.18-0.1.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rSID3pzs/versions/1.17+1.18-0.1.0-forge/InfinityMending-1.17%2B1.18-0.1.0-forge.jar"
+hash-format = "sha1"
+hash = "2316e192d7e5f6f7b693b2e6f690f59f06192856"
+
+[update]
+[update.modrinth]
+mod-id = "rSID3pzs"
+version = "jxpv1R9v"

@@ -1,0 +1,13 @@
+name = "Over Enchanted"
+filename = "caleb-over-enchanted-forge-1.0.1-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qdmqmc2A/versions/1Forge/caleb-over-enchanted-forge-1.0.1-1.18.2.jar"
+hash-format = "sha1"
+hash = "83f2e839c249d4655fe45951818e7a0c5917cbdc"
+
+[update]
+[update.modrinth]
+mod-id = "Qdmqmc2A"
+version = "jxWW84Tf"

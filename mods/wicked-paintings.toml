@@ -1,9 +1,0 @@
-name = "Wicked Paintings"
-filename = "wicked-paintings-1.1.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/fooooooooooooooo/WickedPaintings/releases/download/v1.1.0/wicked-paintings-1.1.0.jar"
-
-hash-format = "sha256"
-hash = "83b56926d737d215f074e77da7cc9686c4c27f9c362561108751972a5c343b26"

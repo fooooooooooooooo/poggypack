@@ -1,0 +1,13 @@
+name = "Stonecutter Recipe Tags"
+filename = "stonecutter_recipe_tags-3.0.1+1.18.bc850d5.forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f6d9af3d282da440266230745cd4238c770ecc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3672671
+project-id = 548154

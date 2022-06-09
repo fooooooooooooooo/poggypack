@@ -1,0 +1,13 @@
+name = "Plasmo Voice"
+filename = "plasmovoice-forge-1.18-1.2.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/forge-1.18-1.2.13/plasmovoice-forge-1.18-1.2.13.jar"
+hash-format = "sha1"
+hash = "818c3ff0fbe015e02f50014353516871137646f0"
+
+[update]
+[update.modrinth]
+mod-id = "1bZhdhsH"
+version = "lhUkbzhf"

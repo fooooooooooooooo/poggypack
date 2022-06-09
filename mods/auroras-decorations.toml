@@ -1,8 +1,0 @@
-name = "Aurora's Decorations"
-filename = "aurorasdecorations-1.0.0+1.18.jar"
-side = "both"
-
-[download]
-url = "https://mods.tyjupiter.com/files/aurorasdecorations-1.0.0+1.18.jar"
-hash-format = "sha256"
-hash = "B1B55AA8595C5255CE05BA4DDA26DBC8B1310F01E4944613E185D20B5F2AE0B2"

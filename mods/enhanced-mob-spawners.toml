@@ -1,0 +1,13 @@
+name = "Enhanced Mob Spawners"
+filename = "spawnermod-1.18.2-1.8.15+Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZF0coYok/versions/1.8.15/spawnermod-1.18.2-1.8.15%2BForge.jar"
+hash-format = "sha1"
+hash = "2f1802873bb4821e24763e07035f165aa74cc8b3"
+
+[update]
+[update.modrinth]
+mod-id = "ZF0coYok"
+version = "pGaqTQO2"

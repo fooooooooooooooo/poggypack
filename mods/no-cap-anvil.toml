@@ -1,9 +1,0 @@
-name = "No Cap Anvil"
-filename = "no-cap-anvil-1.0.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/909904873468854342/948748080851857508/no-cap-anvil-1.0.1.jar"
-
-hash-format = "sha256"
-hash = "9B4EFF8C4BE3FBF901D38F845E5B3AC8058DD44D437B8EDDC449868ED7CFD09E"

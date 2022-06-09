@@ -1,0 +1,13 @@
+name = "Axes Are Weapons"
+filename = "AxesAreWeapons-1.5.2-forge-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1jvt7RTc/versions/1.5.2-forge-1.18/AxesAreWeapons-1.5.2-forge-1.18.2.jar"
+hash-format = "sha1"
+hash = "c2a8d2db2d34b4db8e8c2cf9484c3a691d4206c9"
+
+[update]
+[update.modrinth]
+mod-id = "1jvt7RTc"
+version = "fxOFZ3jE"

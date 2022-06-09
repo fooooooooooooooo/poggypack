@@ -1,0 +1,13 @@
+name = "Zoomer Zoom [Forge]"
+filename = "zoomerzoom-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a578851640a79ff85788ac2b2bb235a3dca5f137"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3760496
+project-id = 561826

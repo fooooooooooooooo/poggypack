@@ -1,15 +1,15 @@
 name = "Poggy pack"
-version = "1.0.1"
-pack-format = "packwiz:1.0.0"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "232916cc1df3f42e3eef52e52887f5d677f76ff70a2905cea69161151bb279ec"
+hash = "ecce79f643d3929c8234315c39d7acbecaab159bc412e343e49724e2df47dd76"
 
 [versions]
-fabric = "0.13.3"
-minecraft = "1.18.1"
+forge = "40.0.0"
+minecraft = "1.18.2"
 
 [options]
-acceptable-game-versions = ["1.18", "1.18.1", "1.18-rc3", "1.18-rc4"]
+acceptable-game-versions = ["1.18.2"]

@@ -1,0 +1,13 @@
+name = "TellMe"
+filename = "tellme-forge-1.18.1-0.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3cf2faf132f1b0a6e5c5c5abd40a61511daadaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3586247
+project-id = 225781
