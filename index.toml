@@ -141,11 +141,6 @@ hash = "14d1fa99174e40f9eeacd1e3e0afa09b0c2be63c0d9b7fdf0d22f92e02eb995c"
 metafile = true
 
 [[files]]
-file = "mods/ctm.pw.toml"
-hash = "69b1d8662dcd3faffef4d75fadb0b6057018e591538fc6e4bbad22ac42808ac0"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "db853a16a69cfc9a2971912f4c853ec0ade4f44808d4e12990d560346bb3168c"
 metafile = true
@@ -153,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-mob-spawners.toml"
 hash = "c9a759ad1026e97d6862d2f5d8d30ecb105488aa9da100973d243f143908b1e3"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
 metafile = true
 
 [[files]]
