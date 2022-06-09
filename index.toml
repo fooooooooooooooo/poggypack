@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucent.pw.toml"
-hash = "a07ca452fc02b838bb65109e69790a3e76bd65d4801957c8ce305bdc244e7096"
+hash = "5417b29b2a7568e410eab8744004bd3bb9d2d57a31686d267d975fea0289af37"
 metafile = true
 
 [[files]]
@@ -272,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "5d25c10845d3a2cbb866f38b5c7f9a4350865480f29e7138bd437a3203eaeedc"
+hash = "4b246e34443a88933c58477c2d86325ba78de5d86bccaae462b8f2806bffcf30"
 metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "76ee493e50f512a5d1bc992a89ae915c7b673c6fd04f6a652c940cfed8da7e8d"
+hash = "46132850dcb392e935ab06fc3a9e4bc3dc45e1b6a339a3634dd1d81933dc3888"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium-reforged.pw.toml"
-hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
+hash = "f1464f897561a73e34d8730aea89aeb01024133caf114664155bd0ece0fa7578"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "ea55d78440fa1289587ff06497b92d9cfe988bb4164fcdddf42dd9dc83fd0779"
+hash = "8b3b87eff25081ebb3dcfc9753d7b7da6b33fa00146c0c0327cb8c2c5057548a"
 metafile = true
 
 [[files]]
@@ -348,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/stonecutter-recipe-tags.pw.toml"
 hash = "b12829122c70d44bf1255bb1d2058db6f11b2e6f38b8f9fbbf8caca14da82175"
-metafile = true
-
-[[files]]
-file = "mods/tellme.pw.toml"
-hash = "cbf323a543d61d877e1588267f452ce7bfd3dacd55c1b3ed973682682fd27771"
 metafile = true
 
 [[files]]
@@ -407,5 +402,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomer-zoom.pw.toml"
-hash = "7f73b05dc8700e901ef2549e467bf97f2a1d2b03b625f0ac9709f6fd94d3013b"
+hash = "8041738e2ed3be10e5593c87a670e23f3a669f180413bd5123553ac5f0ca7170"
 metafile = true
