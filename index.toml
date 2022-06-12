@@ -226,6 +226,11 @@ hash = "69a72933ee14cbd140fa5a77dd7536d5a5efdfa471a5a35a393c77da5351d2f4"
 metafile = true
 
 [[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "7848fc86eb9213041417fecedabf87539a2aa038b46ceee04906e51da040e693"
+metafile = true
+
+[[files]]
 file = "mods/mavm.toml"
 hash = "ab38242a1ab8fee2aa7813cdf965a7de424de41da881ae34b44094a737fb244e"
 metafile = true
@@ -273,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.toml"
 hash = "4b246e34443a88933c58477c2d86325ba78de5d86bccaae462b8f2806bffcf30"
+metafile = true
+
+[[files]]
+file = "mods/oc2.pw.toml"
+hash = "de4e37db0a09999b9a3daf36d9db5205762e3ecf4c704104fdf6043b13e6dcaf"
 metafile = true
 
 [[files]]
@@ -326,6 +336,11 @@ hash = "8b3b87eff25081ebb3dcfc9753d7b7da6b33fa00146c0c0327cb8c2c5057548a"
 metafile = true
 
 [[files]]
+file = "mods/sedna.pw.toml"
+hash = "ace1f8cdfa495d687346352aadd6e1b9ba16db06d8358fb1d0312a9d2228d7a1"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "422a89c398c18e4cb2d5d8aabdec612747562b394210e324689dafecdf70535e"
 metafile = true
@@ -348,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/stonecutter-recipe-tags.pw.toml"
 hash = "b12829122c70d44bf1255bb1d2058db6f11b2e6f38b8f9fbbf8caca14da82175"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "88a1d22c971657c0da41a1558cebf78622fa527c67e40e9f15325cde2e848a8c"
 metafile = true
 
 [[files]]
@@ -393,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/whats-that-slot.toml"
 hash = "3bbcdd47fdac9c3749a72e1f0d243bf2a9166d0bc3fd2f5781a8754aef01d2b8"
-metafile = true
-
-[[files]]
-file = "mods/wthit.toml"
-hash = "bb035589d4ce5daecaacdbeac0de0e0524725bf042fb54b057a0ffb9ef66e245"
 metafile = true
 
 [[files]]
