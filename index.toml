@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "files/justzoom_forge_1.0.1_MC_1.18-1.18.1.jar"
+hash = "93c9c1ead532ee69568a646d6097f07cb39b6df085b579b90888a86641c9629d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "af3cd35c5a473d574b60bb2e2c514ac2cad1d8aa25cd36c8be301c9b8ec5982b"
 metafile = true
@@ -207,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom-forge.pw.toml"
-hash = "8e6f7688031783440fa0e3745cc40feae2a4fd1f2b810a3aaedd790b68b5b548"
+hash = "67cf8f2d43013d44d589d56abb606afbc2c46fe9f62b9aa1152599d7b8d5e695"
 metafile = true
 
 [[files]]
