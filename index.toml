@@ -340,6 +340,11 @@ hash = "f1464f897561a73e34d8730aea89aeb01024133caf114664155bd0ece0fa7578"
 metafile = true
 
 [[files]]
+file = "mods/reauth.pw.toml"
+hash = "a20075d0a6117c036948ab82648eae0a2fca7444b953da165ba6ccd523e832b0"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-forge.toml"
 hash = "71a013ec24bf2e9ce91b302e4ea6b7b99f7ff6b3a1c12f8da9a44b43737db746"
 metafile = true
