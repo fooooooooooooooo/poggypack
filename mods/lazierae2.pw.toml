@@ -1,0 +1,13 @@
+name = "Lazier AE2"
+filename = "lazierae2-1.18.2-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7mmL0PW9/versions/1.18.2-3.0.2/lazierae2-1.18.2-3.0.2.jar"
+hash-format = "sha1"
+hash = "7a702c81dae873d28eab59451f8976aef528f54d"
+
+[update]
+[update.modrinth]
+mod-id = "7mmL0PW9"
+version = "jmHJOEAG"

@@ -35,8 +35,18 @@ hash = "14b1a9c6c6f2a0c87189602f9ccce3e3535bab850a0c93e1467312ff5dd1cd86"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "687ac1414270fbbca0c8bdd74470bcc03870e558e938d5bd49e93e1312e71f72"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "ebc88bc3012538ddb03173c4b286cf7a2ea1d64397a26da9534f846344b35fbe"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "31e00fdff3eca46a26567001e3aed66a6f7c5bc5a33898b37b082063ddcec7aa"
 metafile = true
 
 [[files]]
@@ -230,6 +240,11 @@ hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
 metafile = true
 
 [[files]]
+file = "mods/lazierae2.pw.toml"
+hash = "12d0a64981a9a4d5faa819a4243dd359cef07129eee5115122f02dd7bb50816b"
+metafile = true
+
+[[files]]
 file = "mods/lucent.pw.toml"
 hash = "5417b29b2a7568e410eab8744004bd3bb9d2d57a31686d267d975fea0289af37"
 metafile = true
@@ -247,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/mavm.toml"
 hash = "ab38242a1ab8fee2aa7813cdf965a7de424de41da881ae34b44094a737fb244e"
+metafile = true
+
+[[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "9a4045e51154cac2525cd3d718d97d4a2336fc91a015f073c67daf0425c6f2d9"
 metafile = true
 
 [[files]]
